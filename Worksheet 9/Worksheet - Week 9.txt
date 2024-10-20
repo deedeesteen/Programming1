@@ -1,0 +1,28 @@
+WORKSHEET #9: Iteration (For Loops)
+
+In the tutorial, design the pseudocode and flowchart to solve the problems below, then in your lab, implement the solutions in C.
+1. Write a program that uses a FOR loop to print the 10 times table.
+2. Using a FOR loop, compute and output the square and cube for EACH of the numbers from 50 through 100.
+3. Rewrite any 2 of your previous solutions for worksheets 7 & 8 (counter, header-record logic) using FOR loops.
+4. Prepare the flowchart for the solution below then convert the design into C code: 
+   START
+    DECLARE name AS STRING
+    DECLARE bYear, cnt AS INTEGER
+    DECLARE currYear = 2017 AS INTEGER CONSTANT
+    FOR cnt = 1 TO 5
+      PRINT "Enter a Name: "
+      READ name
+      PRINT "Enter Your Birth Year: "
+      READ bYear
+      age = currYear - bYear
+      PRINT "Hello", name, "You are", age, “years old”
+    END FOR
+   STOP
+5. Use a nested FOR loop to print the entire times table (i.e. 1 times, 2 times, ..., 12 times).
+6. Mrs. Green teaches 3 sets of extra GSAT Science classes with 10 students each. For each class, she has prepared a report consisting of the students’ first name, last name and the grades for the three tests she has given them over the term.
+   Provide the design and implementation of a program that allows her to enter the data for the 3 classes. She would like your program to give for each student the average term grade, as well as to prepare a class average for the 3 groups.
+
+Challenge Yourself!
+- Re-visit Question 4. Also prompt the user for the birth month. Determine the exact age of the user in terms of years and months, given that the current year/month is 2017/October (month 10).
+  Don’t forget to pay attention to users born in November/December!! 
+- Re-visit Question 6. Modify your solution so that Mrs. Green can obtain the student in each class who has the highest average, as well as the student with the lowest average.
