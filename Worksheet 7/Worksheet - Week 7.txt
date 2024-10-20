@@ -1,0 +1,52 @@
+WORKSHEET #7: Iteration (Post-Test)
+In the tutorial, design the pseudocode and flowchart to solve the problems below using the POST-TEST loop. For your lab sessions, implement the solutions in C.
+
+1. Compute and output the square and cube for EACH of the numbers from 50 through 100.
+2. Accept a test grade for each person in a class of 10 students. Find and display the class average grade.
+3. Accept the Test#1, Test#2, and Test#3 grades for each person in a class of 10 students. Find and display the average grade for each student.
+4. With the use of a loop, output the 5 times table in the format below:
+   5 * 1 = 5
+   5 * 2 = 10
+   5 * 3 = 15
+   ...
+   5 * 12 = 60
+5. Design a system that asks the user for the weight (in kg) of 10 persons in an elevator. The system must then display "Too much weight!" if the total weight exceeds 800kg and "Proceed" otherwise.
+6. A popular football league wishes to develop a simple system that keeps track of the weekly points standing for the 5 teams vying to win the tournament.
+   Write a C program that accepts the following for each of the 5 teams: team name, the points standing from the previous week, the result of this week's game (Win, Lose, or Draw), 
+   and the total number of goals scored for that team in the match.
+   The system should calculate and display the team's name and new points for the current week (Win - 3 points, Draw - 1 point or Lose - 0 points). The system should also calculate the total number of goals scored
+   for all teams as well as the average number of goals scored per team.
+7. Convert the following into C code:
+   START
+    DECLARE name AS STRING
+    DECLARE age, cnt AS INTEGER
+    cnt = 1
+    REPEAT
+      PRINT "Enter a Name: "
+      READ name
+      PRINT "Enter Your Age: "
+      READ age
+      PRINT "Your name is: ", name, " and age is: ", age
+      cnt = cnt + 1
+    UNTIL cnt > 5
+   STOP
+8. Write a program to accomplish the following: Assume there are 6 valid input records, each of which contains a driver's name and the class of his/her vehicle. Each class of vehicle pays a different rate to use
+   a particular toll plaza.
+                      CLASS              RATE
+                        1                320
+                        2                450
+                        3                730
+   Your program is to determine and output the following:
+   - The driver name, vehicle class, rate
+   - The total number of Class 1 vehicles, total number of Class 2 vehicles, and total number of Class 3 vehicles entered
+   - The overall total amounts to be received for all vehicle classes based on the rate.
+   Use a CASE structure in your design.
+
+   Use the following sample data to develop a trace table for your pseudocode:
+              DRIVER'S NAME              VEHICLE CLASS
+                Howard                         1
+                Rajni                          2
+              Lorianna                         3
+                Michael                        3
+              Courtney                         2
+                Lyria                          2
