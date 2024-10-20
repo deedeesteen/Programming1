@@ -1,0 +1,39 @@
+Design the pseudocode for all the following (where applicable). In your lab session, use Microsoft Visio to prepare the flowchart.
+1. Write a program that accepts a value for num1 and prints “true” if num1 is divisible by 7 AND if num1 is an even number. Otherwise it prints nothing.
+2. Write a program that accepts a value for num1 and prints “true” if num1 is divisible by 7 OR if num1 is an even number. Otherwise it prints “not true”.
+3. Design a program that will examine the value of an integer variable called investType and print one of the following messages, depending on the value assigned to investType.
+   (a) “Stocks”, if investType is 1
+   (b) “Bonds”, if investType is 2
+   (c) “Mutual Funds”, if investType is 3
+   (d) “Invalid”, if investType has any other value
+   Use a sequential if and a nested if structure (two separate designs) and clearly explain the difference between the two structures.
+4. Write the pseudocode corresponding to the following flowchart: (check folder for flowchart image).
+5. Design a program that will prompt the user for the price of an article and a pricing code.  Your program is then to calculate a discount according to the pricing code 
+   and print to the screen the original price of the article, the discount amount and the new discounted price.  Calculate the pricing code and accompanying discount amount as follows: 
+            Pricing Code                  Discount Rate
+                H                              50%
+                F                              40%
+                T                              33%
+                Q                              25%
+                Z                              0%
+   If the pricing code is Z, the words “No Discount!!” are to be displayed on the screen.  If the pricing code is not H, F, T Q or Z, the words “INVALID PRICING CODE” are to be displayed.
+   Select the most appropriate structure (nested- if or sequential-if) to use for your design.
+6. Effective July 2016, the new income tax threshold and tax rate moved to the following:
+              Income ($)                 Rate of Tax (%)
+              0 - 796,536                      0
+          > 796,536 - 6,000,000                25
+            Above 6,000,000                    30
+Design a program that will prompt for a person’s salary and calculate and display the income tax and net income.
+7. Design the pseudocode and flowchart for a program that will accept the total amount due and existing loyalty points on a customer’s supermarket bill.
+   The program should then determine the number of loyalty points s/he will receive for this bill according to the table below, and update the points for the customer.  
+                  Bill Amount                                        Loyalty Points
+            Up to and including $5000                                       6
+    More than $5000 and less than and including $15000                      10
+                More than $15000                                            15
+   If the customer’s new loyalty points exceed 100, prompt for whether the customer would like to redeem the loyalty points. Redeeming the points result in a 3% discount on the bill and a zeroing of the loyalty 
+   points. If this is the case, output the discount amount and the new bill balance. Thereafter, the program should output the updated loyalty points.
+
+Challenge Yourself!
+8. Using the guidelines located at the link below for the determination of a Jamaican employee’s salary, write a program that will input the gross pay for the month and determine and output all related taxes and other 
+   fields. Assume the employee is making a 5% contribution to pension. https://www.jamaicatax.gov.jm/documents/10181/106865/payroll_and_contribution_rates_employers.pdf/4ddb3ffd-597b-4fa4-a17c-bde7968ac738.
+   Use the applicable 2016 (July to December) value for the income tax threshold located at https://www.jamaicatax.gov.jm/home/-/blogs/income-tax-threshold-to-be-increased-effective-july-1-2016 to determine the salary.  
