@@ -1,0 +1,23 @@
+Understanding How a System/Program Works 
+
+3. Think about an information system you frequently interact with (e.g. at the ATM, the online Portal, at the airport etc.)
+   - Identify at least ONE function the system allows you to carry out.
+   - What are some of the inputs you make to the system?
+   - What are some of the processing functions that take place (e.g. what does the program attempt to calculate/do)?
+   - What are some of the outputs displayed/presented based on what was processed?
+   - Explain how you think the system could have been developed using the systems development life cycle. Give specific examples for each phase.
+     Who are some of the persons primarily responsible for carrying out each of these phases?
+   - Using one of the functions previously identified, explain how you think the Program Development Cycle would have applied to the development of that program.
+     Who are the persons primarily responsible for carrying out the program development?
+   - Differentiate between the users and the developers/programmers of this system. Going back to the function you identified,
+     what are some of the areas that the programmers would be able to see/have access to that the users would not see/know? 
+4. Is input required for all programs? Why or why not?
+5. Write a program that prints “Hello” onto the screen.
+6. Write a program that finds and displays the product of 250 and 45.
+7. Write a program that prompts the user for two numbers, then finds and displays their product.
+   a. What input, processing, and output are required?
+8. You go to the supermarket with $1000 to buy an item. GCT, calculated at 17.5% is applicable to the item.
+   Write a program to prompt the cashier to enter the item cost (assume a valid amount is provided),
+   then determine and output the GCT amount and the change from the $1000.
+   a. What input, processing, and output are required?
+   b. How would your program change if you did not know the amount of money being submitted for payment of the item?
