@@ -1,0 +1,28 @@
+4. Design a program that prompts for the radius of a circle, then determine and display the circle’s diameter, area, and circumference.
+5. Design a program that will calculate the profit (selling price – cost price) made on an item, given the cost price and the selling price.
+   Assume that the selling price is greater than the cost price. Express the profit in percentage form.
+6. Design a program that will prompt the user to enter a person’s weight (in pounds) and height (in inches).
+   The program should then determine and display the person’s body mass index (BMI) given the following: 
+                    BMI = weight/height^2 * 703
+7. Design a program that will determine the weighted coursework grade for a module that has a 60% coursework component.
+   The weighting for the three coursework components is 20%, 15%, and 25%. Your program should accept the numerical grades achieved for each
+   component and display the weighted coursework grade in an attractive format.
+
+Let's Get Real!
+Simulate the processing of the charges of a water bill (see image in folder) by: 
+• accepting the present and previous consumption amounts in litres
+• determining and displaying the actual consumption amount
+• accepting the previous bill balance and payment
+• determining and displaying any overdue amount
+• multiplying the consumption times the rate to get the water charges
+• calculating the sewage charges (100% of water charges)
+• determining and displaying the total charges
+
+A Little More Challenging!
+Design a program that accepts the profit (in percentage) made by a business, as well as the actual profit (in dollars).
+Determine and output the business’ total costs and total sales. 
+E.g. 
+Profit in percentage: 20 
+Actual profit: 25000 
+Total Costs = $125000 
+Total Sales = $150000.
