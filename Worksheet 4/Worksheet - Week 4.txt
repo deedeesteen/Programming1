@@ -1,3 +1,4 @@
+WORKSHEET #4: Selection – Part 2
 Design the pseudocode for all the following (where applicable). In your lab session, use Microsoft Visio to prepare the flowchart.
 1. Write a program that accepts a value for num1 and prints “true” if num1 is divisible by 7 AND if num1 is an even number. Otherwise it prints nothing.
 2. Write a program that accepts a value for num1 and prints “true” if num1 is divisible by 7 OR if num1 is an even number. Otherwise it prints “not true”.
